@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi Hp Sony</string>
+    <string name="belom_di_isi">Sony Xperia XZ1</string>
+    <string name="deskripsi">Sony Mobile menghadirkan smartphone dari seri xperia X, yaitu sony xperia XZ1, Layar xperia XZ premium adalah tipe layar 4K HDR, sedangkan sony xperia XZ1 hanya tipe layar Full HD HDR. Disini sudah terlihat bahwa xperia XZ premium masih unggul. Berikut adalah Spesifikasi dari Sony Xperia XZ1:</string>
+    <string name="cpu">Qualcomm Snapdragon 835</string>
+    <string name="layar">5.2 inchi Full HD HDR</string>
+    <string name="ram">4GB Ram</string>
+    <string name="internal">64GB</string>
+    <string name="os">Android Oreo</string>
+    <string name="batre">2700 mAh</string>
+    <string name="kamera">19MP/13MP</string>
+    <string name="resolusi">4K</string>
+    <string name="jaringan">2G/3G/4G</string>
+    <string name="fitur">NFC, Bluetooth 5.0, Usb Type-C</string>
+    <string name="kelebihan">microSD up to 256GB, Single SIM, Dual SIM Tipe : Nano SIM, WatterProof</string>
+</resources>
