@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas 6</string>
+    <string name="judul_game">Judul Game</string>
+    <string name="deskripsi_game">Deskripsi Game</string>
+    <string name="beli">Beli</string>
+    <string name="share">Share</string>
+    <string name="harga">Rp.250.000</string>
+    <string name="nama">IstiqHarun Kesatria Muliawan Akbar</string>
+    <string name="email">aaronmuliawans@gmail.com</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="with_card">card</string>
+    <string name="about">about</string>
+</resources>
